@@ -1,1 +1,3 @@
-//your JS code here. If required.
+object.prototype.getkeys=function(){
+	return Object.keys(this);
+};
